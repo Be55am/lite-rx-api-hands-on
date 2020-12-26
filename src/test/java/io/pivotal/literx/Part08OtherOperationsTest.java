@@ -17,7 +17,7 @@ import java.util.List;
  *
  * @author Sebastien Deleuze
  */
-public class Part08OtherOperationsTest {
+public class  Part08OtherOperationsTest {
 
 	Part08OtherOperations workshop = new Part08OtherOperations();
 
